@@ -1,0 +1,9 @@
+{
+	"baseUrl": "http://localhost:8000/",
+	"viewportHeight": 900,
+	"viewportWidth": 400,
+	"integrationFolder": "cypress/e2e",
+	"supportFile": "cypress/support/index.js",
+	"pluginsFile": "cypress/plugins/index.js",
+	"fixturesFolder": "cypress/fixtures"
+}
